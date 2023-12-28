@@ -1,0 +1,24 @@
+.accordion{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-bottom: 20rem;
+
+}
+
+.head1{
+    text-align: center;
+    color: #ff7a00;
+    padding-top: 10rem;
+}
+
+.card{
+    padding-top: rem;
+    margin-left: 5rem;
+    margin-right: 5rem;  
+}
+
+
+
+.card {
+    margin-bottom: 10px; /* Adjust as needed */
+  }
